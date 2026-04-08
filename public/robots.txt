@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://remote-work-jp.vercel.app/sitemap.xml
+Sitemap: https://okuwabara07-gif.github.io/remote-work-jp/sitemap.xml
